@@ -1,6 +1,6 @@
 {
   "name": "kokkola",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "Apache-2.0",
   "description": "Kokkola is test application that nobody should use. This doesn't actually do anything. I'm just testing the release process",
   "keywords": [
