@@ -1,0 +1,19 @@
+{
+  "name": "kokkola",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "description": "Kokkola is test application that nobody should use. This doesn't actually do anything. I'm just testing the release process",
+  "keywords": [
+    "test release"
+  ],
+  "author": "Mikko Koivunen",
+  "repository": {
+    "url": "https://github.com/MikkoZ-Rohm/kokkola.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "mbed-drivers": "^1.5.0"
+  },
+  "bin": "./source",
+  "private": true
+}
